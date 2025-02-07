@@ -71,10 +71,6 @@ To run the development environment:
 bun run index.ts
 ```
 
-## License
-
-[Your license here]
-
 ---
 
 Built with [Bun](https://bun.sh)
