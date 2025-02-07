@@ -2,11 +2,6 @@
 
 Rayy web-socket client.
 
-## Installation
-
-```bash
-bun install
-```
 
 ## Quick Start
 
